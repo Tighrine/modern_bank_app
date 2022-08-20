@@ -1,11 +1,11 @@
 # Modern HooBank application with react js, tailwindcss and vite as HMR (Hot Module Replacement)
 
-##clone the repo using git clone.
+## clone the repo using git clone.
 
-###then cd root folder and install node modules using yarn OR npm.
-###then run: yarn/npm dev to see the app in your browser
+### Then cd root folder and install node modules using yarn OR npm.
+### Then run: yarn/npm dev to see the app in your browser
 
-##App screenshots:
+## App screenshots:
 
 ![image](https://user-images.githubusercontent.com/25404529/185760562-a980591b-7ab1-4d75-8ed4-7ae0d91d31db.png)
 
