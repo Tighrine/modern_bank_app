@@ -15,14 +15,14 @@ const Footer = () => {
 
         {
           footerLinks.map(footerLink => (
-            <div className="flex flex-col" >
+            <div className="flex flex-col" key={footerLink.title} >
               <h1 className="font-poppins font-[500] text-[18px] leading-[27px] text-white " >
                 {footerLink.title}
               </h1>
               <ul className="mt-3" >
                 {
                   footerLink.links.map(link => (
-                    <li className="font-poppins font-normal text-[16px] leading-[27px] text-dimWhite mt-3 " >
+                    <li key={link.link} className="font-poppins font-normal text-[16px] leading-[27px] text-dimWhite mt-3 " >
                       <a href={link.link}>
                         {link.name}
                       </a>

@@ -13,7 +13,7 @@ const FeedbackCard = ({ id, content, name, title, img }) => {
       <div className="flex flex-row justify-between items-start" >
         <img src={img} alt={img} className="w-[48px] h-[48px] mr-3 " />
         <div>
-          <h1 className="font-poppins font-normal text-[20px] leading-8 " >{name}</h1>
+          <h1 className="font-poppins font-normal text-[20px] leading-8 text-white " >{name}</h1>
           <div className="font-poppins font-normal text-[16px] leading-6 text-dimWhite " >{title}</div>
         </div>
       </div>
