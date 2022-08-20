@@ -1,4 +1,4 @@
-# Modern HooBank application with react js, tailwindcss and vite as HMR (Hot Module Replacement)
+# Modern HooBank application with react js, tailwindcss with a responsive design and vite as HMR (Hot Module Replacement)
 
 ## clone the repo using git clone.
 
