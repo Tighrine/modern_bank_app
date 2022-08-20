@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { close, logo, menu } from "../assets";
+import { close, github, logo, menu } from "../assets";
 import { navLinks } from "../constants";
 
 const NavBar = () => {
@@ -28,6 +28,10 @@ const NavBar = () => {
           </li>
         ))}
       </ul>
+
+      <a href="https://github.com/Tighrine/modern_bank_app"  target='_blank' className='absolute top-0 right-0 sm:block hidden' >
+        <img src={github} alt="github source" />
+      </a>
 
       <div className='sm:hidden flex flex-1 justify-end items-center'>
         <img src={toggle ? close : menu}
