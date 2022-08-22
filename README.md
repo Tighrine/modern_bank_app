@@ -10,7 +10,7 @@
 
 ## App screenshots:
 
-![image](https://user-images.githubusercontent.com/25404529/185760562-a980591b-7ab1-4d75-8ed4-7ae0d91d31db.png)
+![image](https://user-images.githubusercontent.com/25404529/185783195-d6e7ea61-1457-4b52-bb5f-03d709dea2b8.png)
 
 ![image](https://user-images.githubusercontent.com/25404529/185760591-b447a1a4-ca0f-4414-bf4a-3dce799f2120.png)
 

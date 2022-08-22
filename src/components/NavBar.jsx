@@ -29,7 +29,7 @@ const NavBar = () => {
         ))}
       </ul>
 
-      <a href="https://github.com/Tighrine/modern_bank_app"  target='_blank' className='absolute top-0 right-0 sm:block hidden' >
+      <a href="https://github.com/Tighrine"  target='_blank' className='absolute top-0 right-0 sm:block hidden' >
         <img src={github} alt="github source" />
       </a>
 
