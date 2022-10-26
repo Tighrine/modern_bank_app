@@ -1,7 +1,7 @@
 # Modern HooBank application with react js, tailwindcss with a responsive design and vite as HMR (Hot Module Replacement)
 
-# Live [demo]https://hoobank-modern-app.vercel.app/
-# Figma design [page link]https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=1%3A392
+# Live [demo](https://hoobank-modern-app.vercel.app/)
+# Figma design [page link](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=1%3A392)
 
 ## clone the repo using git clone.
 
